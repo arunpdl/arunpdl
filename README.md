@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arun Poudel.</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 
-- 🔭 I like building **small utility applications.**
+- 🔭 I like building **applications that help solve day to day problems.**
 
-- 👯 I enjoy working on **browser extensions and user scripts.**
+- 👯 I enjoy working on **web apps, browser extensions and user scripts.**
 
-- 🌱 I’m currently learning **TypeScript and Svelte.**
+- 🌱 I’m currently learning **TypeScript and Test Driven Development.**
 
 - 👨‍💻 All of my projects are available at [https://arunpdl.com.np](https://arunpdl.com.np)
 
-- 💬 Ask me about **JavaScript and React.**
+- 💬 Ask me about **JavaScript, React and Angular.**
 
 - 📫 How to reach me **arunpdl013@gmail.com**
 
