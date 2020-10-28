@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript and Test Driven Development.**
 
-- 👨‍💻 All of my projects are available at [https://arunpdl.com.np](https://arunpdl.com.np)
+- 👨‍💻 All of my projects are available at [https://github.com/arunpdl](https://github.com/arunpdl)
 
 - 💬 Ask me about **JavaScript, React and Angular.**
 
